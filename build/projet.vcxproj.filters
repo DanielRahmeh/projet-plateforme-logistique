@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\DanielRAHMEH\Documents\cpp\projet\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DanielRAHMEH\Documents\cpp\projet\src\Plateforme.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DanielRAHMEH\Documents\cpp\projet\src\Region.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DanielRAHMEH\Documents\cpp\projet\src\Manutention.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DanielRAHMEH\Documents\cpp\projet\src\Transporteur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DanielRAHMEH\Documents\cpp\projet\src\Simulation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DanielRAHMEH\Documents\cpp\projet\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5B3D405A-9D91-3AE9-AD28-DB572C60FD9E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

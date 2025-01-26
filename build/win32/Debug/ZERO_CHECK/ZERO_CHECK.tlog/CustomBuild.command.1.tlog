@@ -1,0 +1,10 @@
+^C:\USERS\DANIELRAHMEH\DOCUMENTS\CPP\PROJET\BUILD\CMAKEFILES\389095D79694CE4D75A74F7E33E4D28C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/DanielRAHMEH/Documents/cpp/projet -BC:/Users/DanielRAHMEH/Documents/cpp/projet/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/DanielRAHMEH/Documents/cpp/projet/build/projet.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

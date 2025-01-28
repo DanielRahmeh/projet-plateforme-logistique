@@ -24,7 +24,7 @@ Ce projet implémente une simulation d’une plateforme logistique avec différe
 1. **Cloner** ce dépôt ou récupérer les sources :
 
    ```bash
-   git clone https://github.com/...
+   git clone https://github.com/DanielRahmeh/projet-plateforme-logistique
 
 2. **Créer** un répertoire de build :
 
